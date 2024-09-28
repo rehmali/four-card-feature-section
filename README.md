@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/rehmali/
-- Live Site URL: https://rehmali.github.io/
+- Solution URL: https://github.com/rehmali/four-card-feature-section 
+- Live Site URL: https://rehmali.github.io/four-card-feature-section/
 
 ## My process
   = First I organized HTML Code , using Tags, Classes 
